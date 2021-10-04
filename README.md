@@ -7,7 +7,7 @@ I'm a Data Scientist, data analyzer and AI passionate.
 - 🌱 I’m currently learning machine learning tools
 - 💞️ I’m looking to collaborate with other freelancer Data scientists
 
-- 📫 Connect with me 
+
 
 
 
