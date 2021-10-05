@@ -8,11 +8,11 @@ I'm a Data Scientist, data analyzer and AI passionate.
 - 💞️ I’m looking to collaborate with other freelancer Data scientists
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/saly-hayek)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />][( http://www.linkedin.com/in/saly-hayek)]
 
 
 
-## Languages and Tools
+### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
