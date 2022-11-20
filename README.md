@@ -3,10 +3,6 @@
 I'm a Data Scientist, data analyzer and AI passionate.
 
 
-- 👀 I’m currently working on a data querying machine learning project
-- 🌱 I’m currently learning machine learning tools
-- 💞️ I’m looking to collaborate with other freelancer Data scientists
-
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/saly-hayek)
 <br />
