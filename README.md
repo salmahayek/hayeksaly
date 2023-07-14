@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Sally Hayek @hayeksaly
+- 👋 Hi there, I’m Salma Hayek
 
 I'm a Data Scientist, data analyzer and AI passionate.
 
